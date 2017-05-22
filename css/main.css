@@ -1,0 +1,97 @@
+.pasto{
+	background-color: green;
+    width: 500px;
+    height: 70px;
+    position: absolute;
+    top: 280px;;
+}
+
+.sol{
+	background-color: yellow;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+
+.casa{
+	position: fixed;
+    left: 250px
+}
+
+.casa span i{
+	color: red;
+	font-size: 26px;
+	position: relative;
+	left: 45px;
+	bottom: 50px;
+}
+
+.pared{
+   background-color: brown;
+   width: 200px;
+   height: 150px;
+   position: relative;
+   top: 30px;
+}
+
+.puerta{
+	background-color: grey;
+	width: 55px;
+	height: 85px;
+	position: relative;
+	left: 30px;
+	top: 65px;
+}
+
+.ventana{
+	background-color: pink;
+	width: 40px;
+	height: 40px;
+	position: relative;
+	left: 130px;
+	bottom: 30px;
+}
+
+.techo{
+	border-bottom: 100px solid black;
+	border-left: 50px solid transparent;
+	border-right: 50px solid transparent;
+	height: 0;
+	width: 100px;
+	position: relative;
+	bottom: 220px;
+}
+
+.chimenea{
+	background-color: blue;
+	width: 15px;
+	height: 20px;
+	position: relative;
+	left: 75px;
+	top: 70px;
+
+}
+
+.humo1, .humo2, .humo3{
+	background-color: grey;
+	width: 10px;
+	height: 10px;
+	border-radius: 50px;
+	position: relative;
+}
+
+
+.humo1{
+	left: 130px;
+	top: 20px;
+}
+
+.humo2{
+	left: 110px;
+	top: 20px;
+}
+
+.humo3{
+	left: 85px;
+	top: 20px;
+}
